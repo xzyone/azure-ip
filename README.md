@@ -4,7 +4,7 @@ Azure开关机刷IP脚本
 
 参考&感谢 https://github.com/Li-Xingyu/AzureGetip_JP
 
-参考并用Gemini修改，实现定时开关机获取动态ip地址
+参考并用Gemini修改，实现开机判断机器ip如果不为13开头，就关机，过1分钟后开机，然后继续判断ip，直到ip地址为13开头为止。
 
 
 ## 参数说明及获取方法
