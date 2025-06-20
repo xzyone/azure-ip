@@ -3,7 +3,8 @@ Azure开关机刷IP脚本
 
 
 参考&感谢 https://github.com/Li-Xingyu/AzureGetip_JP
-用Gemini搓的代码
+
+参考并用Gemini修改，实现定时开关机获取动态ip地址
 
 
 ## 参数说明及获取方法
